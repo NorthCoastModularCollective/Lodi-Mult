@@ -5,4 +5,4 @@ This is a 3hp passive 2x4 multiple for Eurorack that is intended to be stylish a
 See [the WIKI for details](https://github.com/NorthCoastModularCollective/Mult/wiki), including BOM and build directions.
 
 
-
+![Picture of a finished Lodi Mult](https://github.com/NorthCoastModularCollective/Mult/blob/master/AmultInTheHand.png)
